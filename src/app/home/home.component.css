@@ -1,0 +1,52 @@
+
+.box{
+    width: 50%;
+    border-radius: 5px;
+    padding-left: 0 20px 20px 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.form-row{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.btn{
+    margin-bottom: 10px;
+}
+
+.error {
+    color: rgb(255, 0, 0);
+    font-size: 12px;
+    margin-right: 20px;
+    float: right;
+  }
+
+.col-md-12{
+    margin-bottom: 5px;
+}
+
+label{
+    margin-left: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    color: cornflowerblue
+}
+
+p{
+    text-align: center;
+    font-size: 22px;
+    font-family: cursive;
+}
+
+th{
+    color: cornflowerblue;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+
